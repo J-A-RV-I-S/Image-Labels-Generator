@@ -75,4 +75,4 @@ Results + uploaded image are displayed.
 Local temp file is deleted.
 
 ### 🏗️ Architecture Diagram
-![Image Labels Generator Flow](images/flow-diagram.png)
+![Image Labels Generator Flow](images/flow-diagram.jpg)
